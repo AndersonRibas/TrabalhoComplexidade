@@ -1,0 +1,30 @@
+C:\Users\Anderson Ribas\source\repos\Simulador de Rotas\Simulador de Rotas\bin\Debug\Simulador de Rotas.exe.config
+C:\Users\Anderson Ribas\source\repos\Simulador de Rotas\Simulador de Rotas\bin\Debug\Simulador de Rotas.exe
+C:\Users\Anderson Ribas\source\repos\Simulador de Rotas\Simulador de Rotas\bin\Debug\Simulador de Rotas.pdb
+C:\Users\Anderson Ribas\source\repos\Simulador de Rotas\Simulador de Rotas\obj\Debug\Simulador de Rotas.csprojAssemblyReference.cache
+C:\Users\Anderson Ribas\source\repos\Simulador de Rotas\Simulador de Rotas\obj\Debug\Simulador_de_Rotas.Form1.resources
+C:\Users\Anderson Ribas\source\repos\Simulador de Rotas\Simulador de Rotas\obj\Debug\Simulador_de_Rotas.Properties.Resources.resources
+C:\Users\Anderson Ribas\source\repos\Simulador de Rotas\Simulador de Rotas\obj\Debug\Simulador de Rotas.csproj.GenerateResource.cache
+C:\Users\Anderson Ribas\source\repos\Simulador de Rotas\Simulador de Rotas\obj\Debug\Simulador de Rotas.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Ribas\source\repos\Simulador de Rotas\Simulador de Rotas\obj\Debug\Simulador de Rotas.exe
+C:\Users\Anderson Ribas\source\repos\Simulador de Rotas\Simulador de Rotas\obj\Debug\Simulador de Rotas.pdb
+C:\Users\usrlab06\Downloads\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\bin\Debug\Simulador de Rotas.exe.config
+C:\Users\usrlab06\Downloads\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\bin\Debug\Simulador de Rotas.exe
+C:\Users\usrlab06\Downloads\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\bin\Debug\Simulador de Rotas.pdb
+C:\Users\usrlab06\Downloads\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador de Rotas.csprojAssemblyReference.cache
+C:\Users\usrlab06\Downloads\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador_de_Rotas.Form1.resources
+C:\Users\usrlab06\Downloads\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador_de_Rotas.Properties.Resources.resources
+C:\Users\usrlab06\Downloads\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador de Rotas.csproj.GenerateResource.cache
+C:\Users\usrlab06\Downloads\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador de Rotas.csproj.CoreCompileInputs.cache
+C:\Users\usrlab06\Downloads\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador de Rotas.exe
+C:\Users\usrlab06\Downloads\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador de Rotas.pdb
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\bin\Debug\Simulador de Rotas.exe.config
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\bin\Debug\Simulador de Rotas.exe
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\bin\Debug\Simulador de Rotas.pdb
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador de Rotas.csprojAssemblyReference.cache
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador_de_Rotas.Form1.resources
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador_de_Rotas.Properties.Resources.resources
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador de Rotas.csproj.GenerateResource.cache
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador de Rotas.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador de Rotas.exe
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\GeradorDeRotas-master\GeradorDeRotas-master\Simulador de Rotas\obj\Debug\Simulador de Rotas.pdb

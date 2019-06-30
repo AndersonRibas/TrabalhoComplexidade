@@ -1,0 +1,30 @@
+C:\Users\usrlab06\source\repos\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.csprojAssemblyReference.cache
+C:\Users\usrlab06\source\repos\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.Form1.resources
+C:\Users\usrlab06\source\repos\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.Properties.Resources.resources
+C:\Users\usrlab06\source\repos\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.csproj.GenerateResource.cache
+C:\Users\usrlab06\source\repos\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.csproj.CoreCompileInputs.cache
+C:\Users\usrlab06\source\repos\CidadesGrafo\CidadesGrafo\bin\Debug\CidadesGrafo.exe.config
+C:\Users\usrlab06\source\repos\CidadesGrafo\CidadesGrafo\bin\Debug\CidadesGrafo.exe
+C:\Users\usrlab06\source\repos\CidadesGrafo\CidadesGrafo\bin\Debug\CidadesGrafo.pdb
+C:\Users\usrlab06\source\repos\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.exe
+C:\Users\usrlab06\source\repos\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.pdb
+C:\Users\usrlab06\Downloads\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\bin\Debug\CidadesGrafo.exe.config
+C:\Users\usrlab06\Downloads\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\bin\Debug\CidadesGrafo.exe
+C:\Users\usrlab06\Downloads\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\bin\Debug\CidadesGrafo.pdb
+C:\Users\usrlab06\Downloads\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.csprojAssemblyReference.cache
+C:\Users\usrlab06\Downloads\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.Form1.resources
+C:\Users\usrlab06\Downloads\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.Properties.Resources.resources
+C:\Users\usrlab06\Downloads\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.csproj.GenerateResource.cache
+C:\Users\usrlab06\Downloads\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.csproj.CoreCompileInputs.cache
+C:\Users\usrlab06\Downloads\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.exe
+C:\Users\usrlab06\Downloads\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.pdb
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\bin\Debug\CidadesGrafo.exe.config
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\bin\Debug\CidadesGrafo.exe
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\bin\Debug\CidadesGrafo.pdb
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.csprojAssemblyReference.cache
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.Form1.resources
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.Properties.Resources.resources
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.csproj.GenerateResource.cache
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.exe
+C:\Users\Anderson Ribas\Downloads\Trabalho Complexidade\Trabalho Complexidade\cidadesGrafoC#\CidadesGrafo\CidadesGrafo\obj\Debug\CidadesGrafo.pdb
